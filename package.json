@@ -7,9 +7,11 @@
     "discord.js": "^13.8.0",
     "fstorm": "latest",
     "jimp": "latest",
+    "@discordjs/voice": "latest",
     "@discordjs/opus": "latest",
     "ffmpeg-static": "latest",
-    "tweetnacl": "latest"
+    "tweetnacl": "latest",
+    "ytdl-core": "^4.10.0"
   },
   "is-music-bot": true
 }
